@@ -95,9 +95,3 @@
 </div>
 
 ---
-
-### ⚙️ Notes & Optional long-term fix
-
-- If the stats images ever go blank again it’s usually because the public deployment was paused or rate-limited.
-- For a permanent fix you can **deploy your own instance** of `github-readme-stats`.
-- I added `v=2` cache-busters on the images so you can bump `v=` if you ever need to force a refresh.
