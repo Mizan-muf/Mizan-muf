@@ -8,11 +8,12 @@
 <!-- GitHub stats (mirror + cache buster) -->
 <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mizan-muf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&v=2" alt="GitHub Stats" />
 
-<!-- GitHub streak -->
-<img height="160" src="https://streak-stats.demolab.com?user=Mizan-muf&theme=dracula&hide_border=true&v=2" alt="GitHub Streak" />
+<!-- GitHub stats -->
+<img height="160" src="https://YOUR-APP.vercel.app/api?username=Mizan-muf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
 
 <!-- Top languages -->
-<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mizan-muf&layout=compact&theme=dracula&hide_border=true&langs_count=8&v=2" alt="Top Languages" />
+<img height="160" src="https://YOUR-APP.vercel.app/api/top-langs/?username=Mizan-muf&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Top Languages" />
+
 
 </div>
 
