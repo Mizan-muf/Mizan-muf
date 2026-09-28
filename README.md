@@ -5,14 +5,15 @@
 
 <div align="center">
 
-<!-- GitHub stats (mirror + cache buster) -->
-<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mizan-muf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&v=2" alt="GitHub Stats" />
-
 <!-- GitHub stats -->
-<img height="160" src="github-readme-stats-one-omega-47.vercel.app/api?username=Mizan-muf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+<img height="160" src="https://github-readme-stats-one-omega-47.vercel.app/api?username=Mizan-muf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+
+<!-- GitHub streak -->
+<img height="160" src="https://streak-stats.demolab.com?user=Mizan-muf&theme=dracula&hide_border=true" alt="GitHub Streak" />
 
 <!-- Top languages -->
-<img height="160" src="github-readme-stats-one-omega-47.vercel.app/api/top-langs/?username=Mizan-muf&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Top Languages" />
+<img height="160" src="https://github-readme-stats-one-omega-47.vercel.app/api/top-langs/?username=Mizan-muf&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Top Languages" />
+
 
 
 </div>
